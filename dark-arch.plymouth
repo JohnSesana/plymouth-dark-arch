@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=dark-arch
+Description=dark-arch splash screen.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/dark-arch
+ScriptFile=/usr/share/plymouth/themes/dark-arch/dark-arch.script
+ConsoleLogBackgroundColor=0x1793D1
